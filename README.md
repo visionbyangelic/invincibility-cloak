@@ -78,12 +78,7 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Created by [Heaven](https://github.com/nerdyalgorithm) (GitHub username: **nerdyalgorithm**).  
-For questions or feedback, please open an issue or reach out on GitHub.
+Created by [ANGELIC](https://github.com/visionbyangelic) (GitHub username: **visionbyangelic**).  
+Feel free to open issues or reach out on GitHub for questions or feedback.
 
 ---
-
-## Acknowledgments
-
-- Inspired by classic invisibility cloak projects using OpenCV.
-- Thanks to the OpenCV community for their excellent documentation and support.
